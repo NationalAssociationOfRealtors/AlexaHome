@@ -1,0 +1,26 @@
+{
+  "name": "alexahome",
+  "version": "1.0.0",
+  "description": "Alexa Skill for Home Information",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dave Conroy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NationalAssociationOfRealtors/AlexaHome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NationalAssociationOfRealtors/AlexaHome/issues"
+  },
+  "homepage": "https://github.com/NationalAssociationOfRealtors/AlexaHome#readme"
+}

@@ -1,0 +1,48 @@
+{
+  "intents": [
+    {
+      "intent": "AirQualityIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpCOtwoIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpAirFilterIntent",
+      "slots": []
+    },
+    {
+      "intent": "EmergencyIntent",
+      "slots": []
+    },
+    {
+      "intent": "RadonIntent",
+      "slots": []
+    },
+    {
+      "intent": "FireExtinguisherIntent",
+      "slots": []
+    },
+    {
+      "intent": "SmokeDetectorIntent",
+      "slots": []
+    },
+    {
+      "intent": "DigSafeIntent",
+      "slots": []
+    },
+    {
+      "intent": "EnergyUsageIntent",
+      "slots": []
+    },
+    {
+      "intent": "FinishIntent",
+      "slots": []
+    }
+  ]
+}
